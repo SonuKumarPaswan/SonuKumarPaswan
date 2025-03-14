@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sonu Paswan</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
- <img  alt="Coding" align="right" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" />
+
+<img  alt="Coding" align="right" width="401" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonukumarpaswan&label=Profile%20views&color=0e75b6&style=flat" alt="sonukumarpaswan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonukumarpaswan" alt="sonukumarpaswan" /></a> </p>
 
 - 🔭 I’m currently working on **Product Management System**
 
@@ -38,3 +37,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonukumarpaswan&show_icons=true&locale=en&layout=compact" alt="sonukumarpaswan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonukumarpaswan&show_icons=true&locale=en" alt="sonukumarpaswan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonukumarpaswan&" alt="sonukumarpaswan" /></p>
