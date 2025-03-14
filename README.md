@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sonu Paswan</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
+ <img  alt="Coding" align="right" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonukumarpaswan&label=Profile%20views&color=0e75b6&style=flat" alt="sonukumarpaswan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonukumarpaswan" alt="sonukumarpaswan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sonupaswan" target="blank"><img src="https://img.shields.io/twitter/follow/sonupaswan?logo=twitter&style=for-the-badge" alt="sonupaswan" /></a> </p>
 
 - 🔭 I’m currently working on **Product Management System**
 
@@ -23,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sonupaswan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sonupaswan" height="30" width="40" /></a>
+<a href="https://twitter.com/sonukumarpaswa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sonukumarpaswa" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100049509727868" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100049509727868" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/er.sonu__0578/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/er.sonu__0578/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/zsonukumar0578" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/zsonukumar0578" height="30" width="40" /></a>
@@ -39,5 +38,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonukumarpaswan&show_icons=true&locale=en&layout=compact" alt="sonukumarpaswan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonukumarpaswan&show_icons=true&locale=en" alt="sonukumarpaswan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonukumarpaswan&" alt="sonukumarpaswan" /></p>
