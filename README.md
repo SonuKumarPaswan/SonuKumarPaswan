@@ -1,4 +1,4 @@
- <h1 align="center">Welcome to my Github </h1>
+ 
 ![logo](https://github.com/SonuKumarPaswan/SonuKumarPaswan/blob/main/bd1e5c2457278a37313c55ce8c887aa3.jpg)
 <h1 align="center">Hi 👋, I'm Sonu Paswan</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
