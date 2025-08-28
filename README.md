@@ -56,16 +56,31 @@
 </div>
 
 ---
+<div align="center">
 
 ## 📊 GitHub Stats  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sonukumarpaswan&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonukumarpaswan&show_icons=true&layout=compact&theme=tokyonight" alt="langs" height="160"/>
 </p>
 
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sonukumarpaswan&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="160"/>
+</p>
+
+</div>
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonukumarpaswan&theme=tokyonight" alt="streak" height="160"/>
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=sonukumarpaswan&theme=tokyonight" alt="streak" height="160"/>
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SonuKumarPaswan/SonuKumarPaswan/output/snake.svg" alt="snake animation"/>
 </p>
