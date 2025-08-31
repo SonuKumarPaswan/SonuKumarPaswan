@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/SonuKumarPaswan/SonuKumarPaswan/blob/main/Banner.png?raw=true" alt="DSA Banner" width="100%" height="200">
+  <img src="https://github.com/SonuKumarPaswan/SonuKumarPaswan/blob/main/Banner.png?raw=true" alt="DSA Banner" width="100%" height="210">
 </p>
 
-<h1 align="center">Hi 👋, I'm Sonu Paswan</h1>
+<h1 align="center">Hi👋, I'm Sonu Paswan</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
 
 <img alt="Coding" align="right" width="380" height="220" src="https://raw.githubusercontent.com/SonuKumarPaswan/SonuKumarPaswan/main/Coder.gif" />
@@ -12,11 +12,11 @@
   <img src="https://komarev.com/ghpvc/?username=sonukumarpaswan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
-- 🔭 I’m currently working on **Product Management System**  
-- 🌱 I’m currently learning **Python**  
-- 👯 I’m looking to collaborate on [Hospital Management System](https://github.com/poojak1515/Hospital-Managemnet-System.git)  
+- 🔭 I’m currently working on **Stock-Trading-Platform**  
+- 🌱 I’m currently learning **TypeScript**  
+- 👯 I’m looking to collaborate on [Stock-Tracding-Platform](https://github.com/SonuKumarPaswan/stock-trading-platform)  
 - 👨‍💻 Check out my projects on [LinkedIn](https://www.linkedin.com/in/sonukumarpaswan/)  
-- 💬 Ask me about **Java, JS, React.js, SQL, JDBC, Servlet**  
+- 💬 Ask me about **Java, JavaScript, React.js, Node, Express, MySql, MongoDB**  
 - 📫 Reach me at **sonupaswan0381@gmail.com**  
 - ⚡ Fun fact: **I'm funny 😒🙃**  
 
@@ -66,7 +66,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonukumarpaswan&show_icons=true&layout=compact&theme=tokyonight" alt="langs" height="160"/>
 </p>
 
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sonukumarpaswan&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="160"/>
 </p>
@@ -75,13 +74,5 @@
 
 
 <p align="center">
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=sonukumarpaswan&theme=tokyonight" alt="streak" height="160"/>
-</p>
-
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SonuKumarPaswan/SonuKumarPaswan/output/snake.svg" alt="snake animation"/>
+  <img src="https://github.com/SonuKumarPaswan/SonuKumarPaswan/blob/main/.github/workflows/snake.yml" alt="snake animation"/>
 </p>
