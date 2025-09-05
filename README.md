@@ -21,19 +21,71 @@
 - ⚡ Fun fact: **I'm funny 😒🙃**  
 
 
-
 <div align="center">
   
 ## 💻 Tech Stack ⚡  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
+<table align="center">
+  <tr>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>Java</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" /><br>JavaScript</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="55" height="55" /><br>TypeScript</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>SQL</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="55" height="55" /><br>HTML</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="55" height="55" /><br>CSS</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" /><br>C++</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=c" width="55" height="55" /><br>C</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" /><br>MongoDB</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>MySQL</td>
+</tr>
+<tr>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" /><br>Node.js</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" /><br>Next.js</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="55" height="55" /><br>Express.js</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="55" height="55" /><br>React.js</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redux" width="55" height="55" /><br>Redux</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" /><br>MongoDB</td>
+   <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/EJS-yellow?style=for-the-badge&logo=ejs&logoColor=black" height="40" /><br>EJS</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="40" /><br>JWT</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Password-darkblue?style=for-the-badge&logo=keepassxc&logoColor=white" height="40" /><br>Password</td>
+</tr>
+<tr>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>JDBC</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Servlets-orange?style=for-the-badge" height="40" /><br>Servlets</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/JSP-blue?style=for-the-badge" height="40" /><br>JSP</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/JSTL-green?style=for-the-badge" height="40" /><br>JSTL</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/MVC-Architecture-red?style=for-the-badge" height="40" /><br>MVC</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Session-Cookies-brown?style=for-the-badge" height="40" /><br>Sessions</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Filters-Listeners-purple?style=for-the-badge" height="40" /><br>Filters</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=spring" width="55" height="55" /><br>Spring Core</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=white" height="40" /><br>Spring Boot</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Hibernate-blueviolet?style=for-the-badge&logo=hibernate&logoColor=white" height="40" /><br>Hibernate</td>
+ </tr>
+ <tr>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" /><br>Bootstrap</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" /><br>Tailwind CSS</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/AntDesign-1890FF?style=for-the-badge&logo=antdesign&logoColor=white" height="40" /><br>Ant Design</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br>Docker</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" /><br>Open AI</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/MaterialUI-0081CB?style=for-the-badge&logo=mui&logoColor=white" height="40" /><br>Material UI</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/ReactIcons-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="40" /><br>React Icons</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/ReactToastify-FF6B6B?style=for-the-badge&logo=react&logoColor=white" height="40" /><br>Toastify</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postman" width="55" height="55" /><br>Postman</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Hopscotch-FE7A16?style=for-the-badge&logoColor=white" height="40" /><br>Hopscotch</td>
+</tr>
+<tr>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br>VS Code</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=eclipse" width="55" height="55" /><br>Eclipse</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=idea" width="55" height="55" /><br>IntelliJ IDEA</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br>Git</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br>GitHub</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bitbucket" width="55" height="55" /><br>Bitbucket</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="40" /><br>Swagger</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" height="40" /><br>Maven</td>
+</tr>
+
+</table>
 
 </div>
 
@@ -72,6 +124,10 @@
 
 </div>
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sonukumarpaswan&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15"/>
+</p>
 
 <p align="center">
   <img src="https://github.com/SonuKumarPaswan/SonuKumarPaswan/blob/main/.github/workflows/snake.yml" alt="snake animation"/>
