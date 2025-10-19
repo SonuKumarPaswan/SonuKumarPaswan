@@ -7,7 +7,6 @@
 
 <img alt="Coding" align="right" width="380" height="220" src="https://raw.githubusercontent.com/SonuKumarPaswan/SonuKumarPaswan/main/Coder.gif" />
 
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sonukumarpaswan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
