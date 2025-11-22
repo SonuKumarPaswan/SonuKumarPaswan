@@ -121,7 +121,7 @@
   <img src="https://streak-stats.demolab.com?user=sonukumarpaswan&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="160"/>
 </p>
 
-</div>
+</div> 
 
 ## 🏆 GitHub Trophies
 <p align="center">
