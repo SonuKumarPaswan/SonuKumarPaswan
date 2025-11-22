@@ -128,6 +128,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sonukumarpaswan&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/SonuKumarPaswan/SonuKumarPaswan/blob/main/.github/workflows/snake.yml" alt="snake animation"/>
-</p>
+</p> -->
