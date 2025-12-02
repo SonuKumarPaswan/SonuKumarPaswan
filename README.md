@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/SonuKumarPaswan/SonuKumarPaswan/blob/main/poster.jpg?raw=true" alt="DSA Banner" width="100%" height="240">
 </p> 
- 
+
 <h1 align="center">Hi👋, I'm Sonu Paswan</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
 
