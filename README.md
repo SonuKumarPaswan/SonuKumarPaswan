@@ -9,7 +9,7 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sonukumarpaswan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-</p>
+</p> 
 
 - 🔭 I’m currently working on **Stock-Trading-Platform**  
 - 🌱 I’m currently learning **TypeScript**  
