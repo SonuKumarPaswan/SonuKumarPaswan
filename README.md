@@ -3,7 +3,7 @@
 </p>  
 
 <h1 align="center">Hi👋, I'm Sonu Paswan</h1>
-<h3 align="center">A passionate Java Full Stack developer from India</h3>
+<h3 align="center">A passionate Java Full Stack developer from India</h3>  
 
 <img alt="Coding" align="right" width="380" height="220" src="https://raw.githubusercontent.com/SonuKumarPaswan/SonuKumarPaswan/main/Coder.gif" />
 
