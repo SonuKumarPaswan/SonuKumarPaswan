@@ -17,14 +17,87 @@
 - 👨‍💻 Check out my projects on [LinkedIn](https://www.linkedin.com/in/sonukumarpaswan/)  
 - 💬 Ask me about **Java, JavaScript, React.js, Node, Express, MySql, MongoDB**  
 - 📫 Reach me at **sonupaswan0381@gmail.com**  
-- ⚡ Fun fact: **I'm funny 😒🙃**  
+- ⚡ Fun fact: **I'm funny 😒🙃**
+
+## 👨‍💻 About Me
+
+I am a **Full Stack Developer** with hands-on experience in building and deploying **production-ready web applications** using **MERN Stack, Java Full Stack, and TypeScript**.
+
+I work across the complete development lifecycle — from designing **modern, responsive user interfaces** to building **secure and scalable backend systems**. I also have practical experience in **server-side deployment, domain management, and cloud hosting**, ensuring applications are reliable and live for real users.
+
+I have worked with multiple hosting and deployment platforms including **Hostinger, GoDaddy, Vercel, and Render**, and I am comfortable managing databases such as **MongoDB and MySQL**. I enjoy solving real-world problems and delivering solutions that are **performance-driven, SEO-friendly, and business-focused**.
+
+---
+
+## 🏢 Experience
+
+### Dream Sky Airways – Web Development Experience
+
+At **Dream Sky Airways**, I worked on building and maintaining **real-world web projects** for the **education and aviation domain**. My responsibilities included frontend development, backend integration, deployment, and live server handling.
+
+#### 🔑 Key Projects Delivered
+- 🌐 **vistaglobalacademy.com**
+- 🌐 **airaviationinstitute.in**
+- 🌐 **skillszoneacademy.com**
+
+#### 📌 Work Highlights
+- Developed **responsive and user-friendly web interfaces**
+- Integrated **backend services and databases**
+- Deployed projects on **live servers with domain configuration**
+- Ensured **website performance, security, and SEO optimization**
+- Worked closely with stakeholders to deliver **business requirements**
+
+---
+
+## 🚀 Projects
+
+I have built and deployed multiple projects across different domains, focusing on **real-world usability, scalability, and production readiness**.
+
+### ⭐ Notable Projects
+
+- **Packers & Movers Business Website**  
+  Built using **Next.js, TypeScript, and Tailwind CSS**, and deployed on **Vercel** for a real client.
+
+- **Stock Trading Platform (In Progress)**  
+  A Full Stack project focused on **real-time data handling, backend APIs, and scalable architecture**.
+
+- **Education & Institute Websites**  
+  Multiple production websites developed for academies and institutes using modern frontend and backend technologies.
+
+- **MERN Stack Applications**  
+  CRUD-based and API-driven applications with **authentication and database integration**.
+
+- **Java Full Stack Projects**  
+  Applications built using **JDBC, Servlets, Hibernate, Spring Boot, and MySQL**.
+
+Each project strengthened my understanding of **system design, deployment strategies, database management, and production workflows**.
+
+---
+
+## 🧰 Tech Stack
+
+**Frontend:**  
+Next.js, React.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS  
+
+**Backend:**  
+Node.js, Express.js, Java, Spring Boot  
+
+**Database:**  
+MongoDB, MySQL  
+
+**Hosting & Deployment:**  
+Hostinger, GoDaddy, Vercel, Render  
+
+**Tools & Practices:**  
+Git, GitHub, REST APIs
+
 
 
 <div align="center">
   
-## 💻 Tech Stack ⚡  
+## 📚 Technologies I’ve Worked With
 
-<table align="center">
+<table align="start">
   <tr>
   <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>Java</td>
   <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" /><br>JavaScript</td>
@@ -88,7 +161,7 @@
 
 </div>
 
-<div align="center">
+<div align="start">
 
 ## 🌐 Connect with me  
 
@@ -112,12 +185,12 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=sonukumarpaswan&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonukumarpaswan&show_icons=true&layout=compact&theme=tokyonight" alt="langs" height="160"/>
 </p>
 
-<p align="center">
+<p align="start">
   <img src="https://streak-stats.demolab.com?user=sonukumarpaswan&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="160"/>
 </p>
 
