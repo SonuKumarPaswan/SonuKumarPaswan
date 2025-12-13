@@ -93,11 +93,11 @@ Git, GitHub, REST APIs
 
 
 
-<div align="center">
+<div align="start">
   
 ## 📚 Technologies I’ve Worked With
 
-<table align="start">
+<table align="center">
   <tr>
   <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>Java</td>
   <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" /><br>JavaScript</td>
@@ -181,11 +181,11 @@ Git, GitHub, REST APIs
 </div>
  
 
-<div align="center">
+<div align="start">
 
 ## 📊 GitHub Stats  
 
-<p align="start">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sonukumarpaswan&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonukumarpaswan&show_icons=true&layout=compact&theme=tokyonight" alt="langs" height="160"/>
 </p>
@@ -197,7 +197,7 @@ Git, GitHub, REST APIs
 </div> 
 
 ## 🏆 GitHub Trophies
-<p align="center">
+<p align="start">
   <img src="https://github-profile-trophy.vercel.app/?username=sonukumarpaswan&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15"/>
 </p>
 
