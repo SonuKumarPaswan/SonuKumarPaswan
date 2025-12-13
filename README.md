@@ -161,6 +161,21 @@ Git, GitHub, REST APIs
 
 </div>
 
+## 🧩 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/zsonukumar0578?theme=dark&font=baloo&ext=contest)
+
+## 🧩 LeetCode Profile
+
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-zsonukumar0578-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/zsonukumar0578/)
+
+## 🏆 Achievements
+- Solved 300+ DSA problems on LeetCode & GeeksforGeeks
+
+## 🧩 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/zsonukumar0578?theme=light&font=baloo&ext=contest)
+
+
 <div align="start">
 
 ## 🌐 Connect with me  
