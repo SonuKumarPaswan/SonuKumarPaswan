@@ -159,7 +159,7 @@ Git, GitHub, REST APIs
 
 </table>
 
-</div>
+</div> 
 
 
 
