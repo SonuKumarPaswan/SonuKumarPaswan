@@ -27,69 +27,128 @@ I work across the complete development lifecycle — from designing **modern, re
 
 I have worked with multiple hosting and deployment platforms including **Hostinger, GoDaddy, Vercel, and Render**, and I am comfortable managing databases such as **MongoDB and MySQL**. I enjoy solving real-world problems and delivering solutions that are **performance-driven, SEO-friendly, and business-focused**.
 
+---# 👨‍💻 Sonu Kumar Paswan
+
+Full Stack Web Developer with hands-on experience in building **real-world, production-ready web applications** across education, aviation, and business domains.
+
 ---
 
 ## 🏢 Experience
 
-### Dream Sky Airways – Web Development Experience
+### **Web Developer – Dream Sky Airways**
+*Education & Aviation Domain | 6 Months Experience*
 
-At **Dream Sky Airways**, I worked on building and maintaining **real-world web projects** for the **education and aviation domain**. My responsibilities included frontend development, backend integration, deployment, and live server handling.
+Worked on live web projects involving **frontend development, backend integration, deployment, and server management**. Contributed to building scalable and user-friendly applications aligned with business requirements.
 
-#### 🔑 Key Projects Delivered
-- 🌐 **vistaglobalacademy.com**
-- 🌐 **airaviationinstitute.in**
-- 🌐 **skillszoneacademy.com**
+### 🔑 Live Projects
+- 🌐 **Vista Global Academy** – Educational Platform  
+- 🌐 **Air Aviation Institute** – Aviation Training Website  
+- 🌐 **Skills Zone Academy** – Learning Management System  
 
-#### 📌 Work Highlights
-- Developed **responsive and user-friendly web interfaces**
-- Integrated **backend services and databases**
-- Deployed projects on **live servers with domain configuration**
-- Ensured **website performance, security, and SEO optimization**
-- Worked closely with stakeholders to deliver **business requirements**
+### 📌 Responsibilities
+- Developed **responsive, SEO-optimized user interfaces**
+- Integrated **backend APIs and databases**
+- Handled **deployment, domain setup, and live server management**
+- Improved **performance, security, and scalability**
+- Collaborated with stakeholders to deliver business-driven solutions
 
 ---
 
 ## 🚀 Projects
 
-I have built and deployed multiple projects across different domains, focusing on **real-world usability, scalability, and production readiness**.
+Built and deployed multiple projects focusing on **scalability, clean architecture, and real-world usability**.
 
-### ⭐ Notable Projects
+### ⭐ Featured Projects
 
-- **Packers & Movers Business Website**  
-  Built using **Next.js, TypeScript, and Tailwind CSS**, and deployed on **Vercel** for a real client.
+### **Packers & Movers Business Website** *(Client Project)*
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS  
+- Developed a responsive business website for a real client  
+- Optimized UI performance and deployed on **Vercel**  
+- Implemented modern, reusable UI components  
 
-- **Stock Trading Platform (In Progress)**  
-  A Full Stack project focused on **real-time data handling, backend APIs, and scalable architecture**.
+---
 
-- **Education & Institute Websites**  
-  Multiple production websites developed for academies and institutes using modern frontend and backend technologies.
+### **Stock Trading Platform (Zerodha-Inspired)** *(In Progress)*
+**Tech Stack:** Next.js / React.js, Node.js, Express.js, MongoDB  
+- Building a full stack trading platform (UI + backend simulation)  
+- Designed RESTful APIs and MongoDB schemas  
+- Focused on scalable backend architecture and dashboard features  
 
-- **MERN Stack Applications**  
-  CRUD-based and API-driven applications with **authentication and database integration**.
+---
 
-- **Java Full Stack Projects**  
-  Applications built using **JDBC, Servlets, Hibernate, Spring Boot, and MySQL**.
+### **Education & Institute Websites**
+**Tech Stack:** Next.js, Node.js, Express.js, MongoDB  
+- Developed multiple production-ready academic platforms  
+- Implemented authentication and CRUD functionality  
+- Designed clean backend architecture  
 
-Each project strengthened my understanding of **system design, deployment strategies, database management, and production workflows**.
+---
+
+### **MERN Stack Applications**
+- CRUD-based applications with **JWT authentication**
+- API-driven backend with MongoDB integration
+- Focus on scalable REST API design
+
+---
+
+### **Java Full Stack Projects**
+**Tech Stack:** Java, JDBC, Servlets, Hibernate, Spring Boot, MySQL  
+- Developed Java-based backend applications  
+- Implemented MVC architecture and database connectivity  
+- Worked with REST services and server-side logic  
 
 ---
 
 ## 🧰 Tech Stack
 
-**Frontend:**  
-Next.js, React.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS  
+### **Frontend**
+- Next.js  
+- React.js  
+- TypeScript  
+- JavaScript (ES6+)  
+- HTML5, CSS3  
+- Tailwind CSS  
 
-**Backend:**  
-Node.js, Express.js, Java, Spring Boot  
+### **Backend**
+- Node.js  
+- Express.js  
+- Java  
+- Spring Boot  
+- REST APIs  
 
-**Database:**  
-MongoDB, MySQL  
+### **Database**
+- MongoDB  
+- MySQL  
 
-**Hosting & Deployment:**  
-Hostinger, GoDaddy, Vercel, Render  
+### **Hosting & Deployment**
+- Vercel  
+- Hostinger  
+- GoDaddy  
+- Render  
 
-**Tools & Practices:**  
-Git, GitHub, REST APIs
+### **Tools & Practices**
+- Git & GitHub  
+- VS Code  
+- Postman  
+- API Development  
+- Deployment & CI/CD Basics  
+
+---
+
+## 🎯 About This Profile
+This GitHub showcases projects built with a **production mindset**, focusing on:
+- Clean code & architecture  
+- Deployment workflows  
+- Database design  
+- Scalable full stack solutions  
+
+---
+
+📫 **Contact**
+- Email: sonupaswan0381@gmail.com  
+- GitHub: https://github.com/your-username  
+- LinkedIn: https://linkedin.com/in/your-profile
+
 
 
 
