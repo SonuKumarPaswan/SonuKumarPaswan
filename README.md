@@ -11,23 +11,18 @@
   <img src="https://komarev.com/ghpvc/?username=sonukumarpaswan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p> 
 
-👨‍💻 About Me
+ 👨‍💻 About Me
 
 I am a **Full Stack Developer** with hands-on experience in building and deploying **production-ready web applications** using **MERN Stack, Java Full Stack, and TypeScript**.
-
 I work across the complete development lifecycle — from designing **modern, responsive user interfaces** to building **secure and scalable backend systems**.
-
 I also have practical experience in **server-side deployment, domain management, and cloud hosting**, ensuring applications are reliable and live for real users.
-
 I have worked with platforms like **Hostinger, GoDaddy, Vercel, and Render**, and I am comfortable managing databases such as **MongoDB and MySQL**.
-
 I enjoy solving real-world problems and delivering **performance-driven, SEO-friendly, and business-focused solutions**.
 
 
 ## 🏢 Experience
 
 ### 💼 Web Developer – Dream Sky Airways
-
 **Education & Aviation Domain | 6 Months Experience**
 
 * Developed and maintained **live production websites**
@@ -42,6 +37,30 @@ I enjoy solving real-world problems and delivering **performance-driven, SEO-fri
 * 🌐 **Vista Global Academy** – Educational Platform
 * 🌐 **Air Aviation Institute** – Aviation Training Website
 * 🌐 **Skills Zone Academy** – Learning Management System
+
+### 🌐 Skills Zone Academy – Learning Management System (LMS)
+
+**Tech Stack:** Next.js, Node.js, Express.js, MongoDB
+
+A full-stack Learning Management System (LMS) designed to manage and deliver online educational content efficiently for students and administrators.
+
+#### 🔹 Key Features
+
+* 👨‍🎓 Student registration and authentication (JWT-based login system)
+* 📚 Course management (create, update, delete courses)
+* 🎥 Video/content-based learning modules
+* 📝 Assignment and progress tracking system
+* 🔐 Role-based access (Admin / Student)
+
+#### 🔹 Responsibilities
+
+* Developed **responsive frontend UI** using Next.js and Tailwind CSS
+* Built **RESTful APIs** using Node.js and Express.js
+* Designed and managed **MongoDB database schemas**
+* Implemented **authentication & authorization system (JWT)**
+* Integrated frontend with backend for seamless data flow
+* Deployed application and managed hosting/server
+
 
 
 ## 🚀 Projects
@@ -79,23 +98,18 @@ I enjoy solving real-world problems and delivering **performance-driven, SEO-fri
 ## 🧰 Tech Stack
 
 ### 💻 Frontend
-
 Next.js • React.js • TypeScript • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS
 
 ### ⚙️ Backend
-
 Node.js • Express.js • Java • Spring Boot • REST APIs 
 
 ### 🗄️ Database
-
 MongoDB • MySQL • JOI - validation
 
 ### ☁️ Deployment & Hosting
-
 Vercel • Hostinger • GoDaddy • Render 
 
 ### 🛠️ Tools & Practices
-
 Git & GitHub • VS Code • Postman • API Development • Docker  • CI/CD Basics • Kubernate
 
 
