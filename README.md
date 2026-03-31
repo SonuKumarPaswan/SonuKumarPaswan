@@ -3,7 +3,7 @@
 </p>  
 
 <h1 align="center">Hi👋, I'm Sonu Paswan</h1> 
-<h3 align="center">A passionate Java Full Stack developer from India</h3>  
+<h3 align="center">A passionate MERN + JAVA Full Stack developer from India</h3>  
 
 <img alt="Coding" align="right" width="380" height="220" src="https://raw.githubusercontent.com/SonuKumarPaswan/SonuKumarPaswan/main/Coder.gif" />
 
@@ -11,144 +11,100 @@
   <img src="https://komarev.com/ghpvc/?username=sonukumarpaswan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p> 
 
-- 🔭 I’m currently working on **Stock-Trading-Platform**  
-- 🌱 I’m currently learning **TypeScript**  
-- 👯 I’m looking to collaborate on [Stock-Tracding-Platform](https://github.com/SonuKumarPaswan/stock-trading-platform)  
-- 👨‍💻 Check out my projects on [LinkedIn](https://www.linkedin.com/in/sonukumarpaswan/)  
-- 💬 Ask me about **Java, JavaScript, React.js, Node, Express, MySql, MongoDB**  
-- 📫 Reach me at **sonupaswan0381@gmail.com**  
-- ⚡ Fun fact: **I'm funny 😒🙃**
-
 ## 👨‍💻 About Me
 
 I am a **Full Stack Developer** with hands-on experience in building and deploying **production-ready web applications** using **MERN Stack, Java Full Stack, and TypeScript**.
 
-I work across the complete development lifecycle — from designing **modern, responsive user interfaces** to building **secure and scalable backend systems**. I also have practical experience in **server-side deployment, domain management, and cloud hosting**, ensuring applications are reliable and live for real users.
+I work across the complete development lifecycle — from designing **modern, responsive user interfaces** to building **secure and scalable backend systems**.
 
-I have worked with multiple hosting and deployment platforms including **Hostinger, GoDaddy, Vercel, and Render**, and I am comfortable managing databases such as **MongoDB and MySQL**. I enjoy solving real-world problems and delivering solutions that are **performance-driven, SEO-friendly, and business-focused**.
+I also have practical experience in **server-side deployment, domain management, and cloud hosting**, ensuring applications are reliable and live for real users.
 
----# 👨‍💻 Sonu Kumar Paswan
+I have worked with platforms like **Hostinger, GoDaddy, Vercel, and Render**, and I am comfortable managing databases such as **MongoDB and MySQL**.
 
-Full Stack Web Developer with hands-on experience in building **real-world, production-ready web applications** across education, aviation, and business domains.
+I enjoy solving real-world problems and delivering **performance-driven, SEO-friendly, and business-focused solutions**.
 
----
 
 ## 🏢 Experience
 
-### **Web Developer – Dream Sky Airways**
-*Education & Aviation Domain | 6 Months Experience*
+### 💼 Web Developer – Dream Sky Airways
 
-Worked on live web projects involving **frontend development, backend integration, deployment, and server management**. Contributed to building scalable and user-friendly applications aligned with business requirements.
+**Education & Aviation Domain | 6 Months Experience**
+
+* Developed and maintained **live production websites**
+* Built **responsive and SEO-optimized UI**
+* Integrated **backend APIs and databases**
+* Managed **deployment, domain setup, and hosting**
+* Improved application **performance, scalability, and security**
+* Collaborated with stakeholders for business requirements
 
 ### 🔑 Live Projects
-- 🌐 **Vista Global Academy** – Educational Platform  
-- 🌐 **Air Aviation Institute** – Aviation Training Website  
-- 🌐 **Skills Zone Academy** – Learning Management System  
 
-### 📌 Responsibilities
-- Developed **responsive, SEO-optimized user interfaces**
-- Integrated **backend APIs and databases**
-- Handled **deployment, domain setup, and live server management**
-- Improved **performance, security, and scalability**
-- Collaborated with stakeholders to deliver business-driven solutions
+* 🌐 **Vista Global Academy** – Educational Platform
+* 🌐 **Air Aviation Institute** – Aviation Training Website
+* 🌐 **Skills Zone Academy** – Learning Management System
 
----
 
 ## 🚀 Projects
 
-Built and deployed multiple projects focusing on **scalability, clean architecture, and real-world usability**.
-
 ### ⭐ Featured Projects
 
-### **Packers & Movers Business Website** *(Client Project)*
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS  
-- Developed a responsive business website for a real client  
-- Optimized UI performance and deployed on **Vercel**  
-- Implemented modern, reusable UI components  
+### 🔹 MeetSync – Real-Time Video Conferencing Platform (Zoom-like)
 
----
+**Tech Stack:** Next.js, WebRTC, Socket.io, Node.js
 
-### **Stock Trading Platform (Zerodha-Inspired)** *(In Progress)*
-**Tech Stack:** Next.js / React.js, Node.js, Express.js, MongoDB  
-- Building a full stack trading platform (UI + backend simulation)  
-- Designed RESTful APIs and MongoDB schemas  
-- Focused on scalable backend architecture and dashboard features  
+* Built real-time video/audio communication system
+* Implemented meeting rooms, chat, and participant controls
+* Optimized performance for low latency
 
----
 
-### **Education & Institute Websites**
-**Tech Stack:** Next.js, Node.js, Express.js, MongoDB  
-- Developed multiple production-ready academic platforms  
-- Implemented authentication and CRUD functionality  
-- Designed clean backend architecture  
+### 🔹 Cognify AI – AI Chat Application (ChatGPT-like)
 
----
+**Tech Stack:** React.js, Node.js, OpenAI API
 
-### **MERN Stack Applications**
-- CRUD-based applications with **JWT authentication**
-- API-driven backend with MongoDB integration
-- Focus on scalable REST API design
+* Developed AI-based chat interface
+* Integrated intelligent response system
+* Designed smooth and modern UI
 
----
 
-### **Java Full Stack Projects**
-**Tech Stack:** Java, JDBC, Servlets, Hibernate, Spring Boot, MySQL  
-- Developed Java-based backend applications  
-- Implemented MVC architecture and database connectivity  
-- Worked with REST services and server-side logic  
+### 🔹 CodeForge – Code Hosting Platform (GitHub-like)
 
----
+**Tech Stack:** MERN Stack
+
+* Built platform for managing code repositories
+* Implemented authentication and basic version control
+* Designed scalable backend APIs
+
+
 
 ## 🧰 Tech Stack
 
-### **Frontend**
-- Next.js  
-- React.js  
-- TypeScript  
-- JavaScript (ES6+)  
-- HTML5, CSS3  
-- Tailwind CSS  
+### 💻 Frontend
 
-### **Backend**
-- Node.js  
-- Express.js  
-- Java  
-- Spring Boot  
-- REST APIs  
+Next.js • React.js • TypeScript • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS
 
-### **Database**
-- MongoDB  
-- MySQL  
+### ⚙️ Backend
 
-### **Hosting & Deployment**
-- Vercel  
-- Hostinger  
-- GoDaddy  
-- Render  
+Node.js • Express.js • Java • Spring Boot • REST APIs 
 
-### **Tools & Practices**
-- Git & GitHub  
-- VS Code  
-- Postman  
-- API Development  
-- Deployment & CI/CD Basics  
+### 🗄️ Database
 
----
+MongoDB • MySQL • JOI - validation
 
-## 🎯 About This Profile
-This GitHub showcases projects built with a **production mindset**, focusing on:
-- Clean code & architecture  
-- Deployment workflows  
-- Database design  
-- Scalable full stack solutions  
+### ☁️ Deployment & Hosting
 
----
+Vercel • Hostinger • GoDaddy • Render 
 
-📫 **Contact**
-- Email: sonupaswan0381@gmail.com  
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-profile
+### 🛠️ Tools & Practices
 
+Git & GitHub • VS Code • Postman • API Development • Docker  • CI/CD Basics • Kubernate
+
+
+## 📫 Contact
+
+* 🌐 Portfolio: https://sonupaswan.vercel.app
+* 📧 Email: [sonupaswan0381@gmail.com](mailto:sonupaswan0381@gmail.com)
+* 💻 GitHub: https://github.com/sonukumarpaswan
+* 🔗 LinkedIn: https://www.linkedin.com/in/sonukumarpaswan/
 
 
 
