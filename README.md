@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=sonukumarpaswan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p> 
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 I am a **Full Stack Developer** with hands-on experience in building and deploying **production-ready web applications** using **MERN Stack, Java Full Stack, and TypeScript**.
 
