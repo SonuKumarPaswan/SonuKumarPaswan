@@ -94,21 +94,16 @@ A full-stack Learning Management System (LMS) designed to manage and deliver onl
 * Designed scalable backend APIs
 
 
-
 ## 🧰 Tech Stack
 
 ### 💻 Frontend
 Next.js • React.js • TypeScript • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS
-
 ### ⚙️ Backend
 Node.js • Express.js • Java • Spring Boot • REST APIs 
-
 ### 🗄️ Database
 MongoDB • MySQL • JOI - validation
-
 ### ☁️ Deployment & Hosting
 Vercel • Hostinger • GoDaddy • Render 
-
 ### 🛠️ Tools & Practices
 Git & GitHub • VS Code • Postman • API Development • Docker  • CI/CD Basics • Kubernate
 
@@ -191,26 +186,6 @@ Git & GitHub • VS Code • Postman • API Development • Docker  • CI/CD B
 </div> 
 
 
-
-<div align="start">
-
-## 🌐 Connect with me  
-
-<p align="center">
-<a href="https://twitter.com/sonukumarpaswa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100049509727868" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-<a href="https://www.instagram.com/er.sonu__0578/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/zsonukumar0578" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/zsonukumar0578" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/zsonukumar0578/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@zsonukumar0578" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/zsonukumar1nt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
-</p>
-
-✨ Let's connect and grow together in the world of tech & development! ✨  
-
-</div>
- 
 
 <div align="start">
 
