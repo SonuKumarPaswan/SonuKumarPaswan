@@ -31,7 +31,7 @@ I enjoy solving real-world problems and delivering **performance-driven, SEO-fri
 * Managed **deployment, domain setup, and hosting**
 * Improved application **performance, scalability, and security**
 * Collaborated with stakeholders for business requirements
-
+ 
 ### 🔑 Live Projects
 
 * 🌐 **Vista Global Academy** – Educational Platform
