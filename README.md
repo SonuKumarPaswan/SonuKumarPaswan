@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SonuKumarPaswan/SonuKumarPaswan/blob/main/poster.jpg?raw=true" alt="DSA Banner" width="110%" height="240">
+  <img src="https://github.com/SonuKumarPaswan/SonuKumarPaswan/blob/main/poster.png?raw=true" alt="DSA Banner" width="110%" height="240">
 </p>  
 
 <h1 align="center">Hi👋, I'm Sonu Paswan</h1> 
