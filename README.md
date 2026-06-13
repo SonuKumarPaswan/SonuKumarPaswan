@@ -22,7 +22,7 @@ I enjoy solving real-world problems and delivering **performance-driven, SEO-fri
 
 ## 🏢 Experience
 
-### 💼 Web Developer – Dream Sky Airways
+### 💼 Full Stack Developer | Dream Sky Airways
 **Tours & Travel Domain | Aug 2025 – Present**
 
 * Developed and maintained **live production travel and tourism web applications**
