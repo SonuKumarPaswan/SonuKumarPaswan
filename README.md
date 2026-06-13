@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://github.com/SonuKumarPaswan/SonuKumarPaswan/blob/main/poster.png?raw=true" alt="DSA Banner" width="110%" height="240">
+<p >
+  <img src="https://github.com/SonuKumarPaswan/SonuKumarPaswan/blob/main/poster.png?raw=true" alt="DSA Banner" width="110%" height="230px">
 </p>  
 
 <h1 align="center">Hi👋, I'm Sonu Paswan</h1> 
@@ -23,7 +23,7 @@ I enjoy solving real-world problems and delivering **performance-driven, SEO-fri
 ## 🏢 Experience
 
 ### 💼 Web Developer – Dream Sky Airways
-**Education & Aviation Domain | 6 Months Experience**
+**Education & Aviation Domain | 1 Months Experience**
 
 * Developed and maintained **live production websites**
 * Built **responsive and SEO-optimized UI**
