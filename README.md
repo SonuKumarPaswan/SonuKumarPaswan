@@ -23,20 +23,22 @@ I enjoy solving real-world problems and delivering **performance-driven, SEO-fri
 ## 🏢 Experience
 
 ### 💼 Web Developer – Dream Sky Airways
-**Education & Aviation Domain | 1 Months Experience**
+**Tours & Travel Domain | Aug 2025 – Present**
 
-* Developed and maintained **live production websites**
-* Built **responsive and SEO-optimized UI**
-* Integrated **backend APIs and databases**
-* Managed **deployment, domain setup, and hosting**
-* Improved application **performance, scalability, and security**
-* Collaborated with stakeholders for business requirements
+* Developed and maintained **live production travel and tourism web applications**
+* Built **responsive, SEO-optimized, and user-friendly interfaces**
+* Integrated **REST APIs, databases, and third-party services**
+* Managed **deployment, hosting, domain configuration, and server maintenance**
+* Enhanced application **performance, scalability, and security**
+* Collaborated with stakeholders to analyze and implement **business requirements**
+* Implemented features for **tour package management, booking systems, and customer support workflows**
+* Contributed to the development of scalable solutions using **Next.js, React.js, TypeScript, Node.js, and MongoDB**
  
 ### 🔑 Live Projects
 
+* 🌐 **Skills Zone Academy** – Learning Management System
 * 🌐 **Vista Global Academy** – Educational Platform
 * 🌐 **Air Aviation Institute** – Aviation Training Website
-* 🌐 **Skills Zone Academy** – Learning Management System
 
 ### 🌐 Skills Zone Academy – Learning Management System (LMS)
 
@@ -96,16 +98,29 @@ A full-stack Learning Management System (LMS) designed to manage and deliver onl
 
 ## 🧰 Tech Stack
 
-### 💻 Frontend
+### 💻 Frontend Development
 Next.js • React.js • TypeScript • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS
-### ⚙️ Backend
-Node.js • Express.js • Java • Spring Boot • REST APIs 
-### 🗄️ Database
-MongoDB • MySQL • JOI - validation
-### ☁️ Deployment & Hosting
-Vercel • Hostinger • GoDaddy • Render 
-### 🛠️ Tools & Practices
-Git & GitHub • VS Code • Postman • API Development • Docker  • CI/CD Basics • Kubernate
+
+### ⚙️ Backend Development
+Node.js • Express.js  • REST APIs • JWT Authentication • OAuth2
+
+### 🗄️ Database & Validation
+MongoDB • MySQL • JOI Validation
+
+### ☁️ Cloud, Hosting & Deployment
+Vercel • Hostinger • GoDaddy • Render • CI/CD Basics
+
+### 📧 Email & Communication Services
+Nodemailer • SMTP Integration • Email Templates
+
+### 🔗 API & Integration
+REST APIs • Third-Party API Integration • Postman
+
+### 🛠️ Tools & Version Control
+Git • GitHub • VS Code • Docker
+
+### 📚 Currently Learning
+Kubernetes • System Design • Advanced DevOps
 
 
 ## 📫 Contact
