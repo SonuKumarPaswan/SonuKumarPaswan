@@ -137,63 +137,57 @@ Kubernetes • System Design • Advanced DevOps
 ## 📚 Technologies I’ve Worked With
 
 <table align="center">
-  <tr>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>Java</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" /><br>JavaScript</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="55" height="55" /><br>TypeScript</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>SQL</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="55" height="55" /><br>HTML</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="55" height="55" /><br>CSS</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" /><br>C++</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=c" width="55" height="55" /><br>C</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" /><br>MongoDB</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>MySQL</td>
-</tr>
+
 <tr>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" /><br>Node.js</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" /><br>Next.js</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="55" height="55" /><br>Express.js</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="55" height="55" /><br>React.js</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redux" width="55" height="55" /><br>Redux</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" /><br>MongoDB</td>
-   <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/EJS-yellow?style=for-the-badge&logo=ejs&logoColor=black" height="40" /><br>EJS</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="40" /><br>JWT</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/Password-darkblue?style=for-the-badge&logo=keepassxc&logoColor=white" height="40" /><br>Password</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55"/><br>Java</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55"/><br>JavaScript</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="55"/><br>TypeScript</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="55"/><br>HTML5</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="55"/><br>CSS3</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>Tailwind</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bootstrap" width="55"/><br>Bootstrap</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="55"/><br>React.js</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="55"/><br>Next.js</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redux" width="55"/><br>Redux</td>
 </tr>
+
 <tr>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>JDBC</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/Servlets-orange?style=for-the-badge" height="40" /><br>Servlets</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/JSP-blue?style=for-the-badge" height="40" /><br>JSP</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/JSTL-green?style=for-the-badge" height="40" /><br>JSTL</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/MVC-Architecture-red?style=for-the-badge" height="40" /><br>MVC</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/Session-Cookies-brown?style=for-the-badge" height="40" /><br>Sessions</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/Filters-Listeners-purple?style=for-the-badge" height="40" /><br>Filters</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=spring" width="55" height="55" /><br>Spring Core</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=white" height="40" /><br>Spring Boot</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/Hibernate-blueviolet?style=for-the-badge&logo=hibernate&logoColor=white" height="40" /><br>Hibernate</td>
- </tr>
- <tr>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" /><br>Bootstrap</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" /><br>Tailwind CSS</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/AntDesign-1890FF?style=for-the-badge&logo=antdesign&logoColor=white" height="40" /><br>Ant Design</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br>Docker</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" /><br>Open AI</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/MaterialUI-0081CB?style=for-the-badge&logo=mui&logoColor=white" height="40" /><br>Material UI</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/ReactIcons-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="40" /><br>React Icons</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/ReactToastify-FF6B6B?style=for-the-badge&logo=react&logoColor=white" height="40" /><br>Toastify</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postman" width="55" height="55" /><br>Postman</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/Hopscotch-FE7A16?style=for-the-badge&logoColor=white" height="40" /><br>Hopscotch</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>Node.js</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="55"/><br>Express.js</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=spring" width="55"/><br>Spring</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="40"/><br>Spring Boot</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" height="40"/><br>Hibernate</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="40"/><br>JWT</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/JOI-E10098?style=for-the-badge" height="40"/><br>JOI</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Nodemailer-0A66C2?style=for-the-badge" height="40"/><br>Nodemailer</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" height="40"/><br>REST API</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="40"/><br>Socket.IO</td>
 </tr>
+
 <tr>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br>VS Code</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=eclipse" width="55" height="55" /><br>Eclipse</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=idea" width="55" height="55" /><br>IntelliJ IDEA</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br>Git</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br>GitHub</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bitbucket" width="55" height="55" /><br>Bitbucket</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="40" /><br>Swagger</td>
-  <td align="center" width="90"><img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" height="40" /><br>Maven</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br>MongoDB</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>MySQL</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55"/><br>Docker</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="55"/><br>Linux</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nginx" width="55"/><br>Nginx</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55"/><br>Git</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55"/><br>GitHub</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postman" width="55"/><br>Postman</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="40"/><br>Swagger</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>VS Code</td>
+</tr>
+
+<tr>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=idea" width="55"/><br>IntelliJ</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=eclipse" width="55"/><br>Eclipse</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" height="40"/><br>Vercel</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" height="40"/><br>Render</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge" height="40"/><br>Hostinger</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge" height="40"/><br>GoDaddy</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="40"/><br>OpenAI</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/CI/CD-Basics-blue?style=for-the-badge" height="40"/><br>CI/CD</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/System%20Design-Learning-orange?style=for-the-badge" height="40"/><br>System Design</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="40"/><br>Kubernetes</td>
 </tr>
 
 </table>
@@ -202,7 +196,7 @@ Kubernetes • System Design • Advanced DevOps
 
 
 
-<div align="start">
+<div align="center">
 
 ## 📊 GitHub Stats  
 
@@ -211,7 +205,7 @@ Kubernetes • System Design • Advanced DevOps
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonukumarpaswan&show_icons=true&layout=compact&theme=tokyonight" alt="langs" height="160"/>
 </p>
 
-<p align="start">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=sonukumarpaswan&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="160"/>
 </p>
 
@@ -231,7 +225,7 @@ Kubernetes • System Design • Advanced DevOps
 
 
 ## 🏆 GitHub Trophies
-<p align="start">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sonukumarpaswan&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15"/>
 </p>
 
